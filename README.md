@@ -37,9 +37,7 @@ Ensure the following are installed:
 
 ### Provider Interface
 - **Provider Home:** Allows providers to update supply status, schedule pickup dates, and view requests sorted by completion status.
-
-![ss1](https://github.com/user-attachments/assets/7b60e3f3-c4bb-4695-800e-4bef02f168ed)
-![image](https://github.com/user-attachments/assets/a907616e-e2b8-4cd8-aab9-3d091b55cc8e)
+  
 ![ss2](https://github.com/user-attachments/assets/557234bf-e5c0-4b19-a715-6a2b9c690520)
 ![ss3](https://github.com/user-attachments/assets/3e6d0dcc-d8e4-49f5-9031-341f17022efe)
 
